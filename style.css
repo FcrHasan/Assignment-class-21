@@ -1,0 +1,47 @@
+/* header */
+header .my_nav{
+    margin-left: 50px;
+}
+
+/* slider section */
+
+.slider_section .carousel-caption{
+    bottom: 45%;
+}
+.slider_section .carousel-caption h5{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+/* Table & Form Section */
+
+.table_section form textarea{
+    height: 100px;
+}
+.table_section form label{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.table_section input[type="checkbox"]{
+    font-weight: 900;
+}
+.table_section span{
+    display: inline-block;
+    position: relative;
+    top: -4px;
+    left: 2px;
+    font-weight: 500;
+}
+
+form .my_input input{
+    width: 90% !important;
+}
+form .right{
+    width: 90%;
+    margin-left: auto;
+}
+form .right input{
+    width: 100% !important;
+}
+
+/*  */
